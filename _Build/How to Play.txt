@@ -1,0 +1,3 @@
+Choose with Enter key.
+
+Move with left and right Keys.
